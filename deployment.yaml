@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: labmaven
-        image: amruthavm0407/jsps:v1
+        image: dhanyathab25/mavenapp:v1
         ports:
         - containerPort: 8080
